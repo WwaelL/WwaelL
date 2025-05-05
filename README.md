@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @WwaelL
-- 👀 I’m interested in Competitive programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wael.houm@gmail.com
 
 <!---
 WwaelL/WwaelL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
